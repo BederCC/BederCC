@@ -55,7 +55,7 @@ Creo en el poder de la tecnología para resolver problemas y mejorar la vida de 
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![LastPass](https://img.shields.io/badge/LastPass-D32D27?style=for-the-badge&logo=LastPass&logoColor=white)
+
 
 
 # 📦 Package Managers
